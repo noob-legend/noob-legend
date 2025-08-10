@@ -1,4 +1,7 @@
-<img align = "center" src="https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754834955/noob-legend_bt2q4y.gif">
+<p align="center">
+  <img src="https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754834955/noob-legend_bt2q4y.gif" />
+</p>
+
 <h3 align="center">A fullstack coding hero</h3>
 
 <h3 align="left">Connect with me:</h3>
