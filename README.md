@@ -2,7 +2,7 @@
   <img width="400" src="https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754834955/noob-legend_bt2q4y.gif" alt="Noob Legend"/>
 </p>
 
-<h3 align="center">A fullstack coding hero</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
