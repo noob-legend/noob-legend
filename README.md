@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754837301/noob-legend_icleeb.gif)]
+![MasterHead](https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754837301/noob-legend_icleeb.gif)
 
 
 <h1 align="center">Hi 👋, I'm Noob-Legend</h1>
