@@ -1,3 +1,5 @@
+<image src="https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754836123/kota-cyber_eqeory.gif" alt="kota berjalan">
+
 <h1 align="center">Hi 👋, I'm Noob-Legend</h1>
 <h3 align="center">A fullstack coding hero</h3>
 
