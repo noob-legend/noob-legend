@@ -1,6 +1,5 @@
 [![MasterHead](https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754836723/kuning_qdigvj.gif)]
 
-<image width = "400" src="https://cdn.pfps.gg/banners/7231-cyberpunk-city.gif" alt="kota berjalan">
 
 <h1 align="center">Hi 👋, I'm Noob-Legend</h1>
 <h3 align="center">A fullstack coding hero</h3>
