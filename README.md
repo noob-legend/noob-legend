@@ -1,8 +1,7 @@
 <p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&size=40&duration=4000&pause=500&color=F73D04&width=435&height=70&lines=hy+i'm+Noob+legend;A+fullstack+coding+hero" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&size=40&duration=4000&pause=500&color=F73D04E9&width=435&height=70&lines=++++hy+i'm+Noob+legend;+++++A+fullstack+coding+hero+" alt="Typing SVG" /></a>
 </p>
-<h1 align="center">Hi 👋, I'm Noob-Legend</h1>
-<h3 align="center">A fullstack coding hero</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
