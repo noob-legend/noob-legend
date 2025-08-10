@@ -1,10 +1,9 @@
 <p align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=40&duration=4000&pause=500&color=F73D04E9&width=550&height=70&lines=++++hy+i'm+Noob+legend;+A+fullstack+coding+hero+" alt="Typing SVG" /></a>
-
+</p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 
 # 💫 About Me:
