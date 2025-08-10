@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754834955/noob-legend_bt2q4y.gif" alt="Noob Legend"/>
+  <img width="400" src="https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754811159/download_1_kzkqfp.jpg" alt="Noob Legend"/>
 </p>
 
 
