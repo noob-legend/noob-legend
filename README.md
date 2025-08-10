@@ -1,3 +1,5 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <image width = "400" src="https://cdn.pfps.gg/banners/7231-cyberpunk-city.gif" alt="kota berjalan">
 
 <h1 align="center">Hi 👋, I'm Noob-Legend</h1>
