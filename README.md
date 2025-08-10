@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&pause=1000&color=F73D04&width=435&lines=hy+i'm+Noob+legend;A+fullstack+coding+hero" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=arial&size=40&duration=4000&pause=500&color=F73D04&width=435&lines=hy+i'm+Noob+legend;A+fullstack+coding+hero" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">Hi 👋, I'm Noob-Legend</h1>
