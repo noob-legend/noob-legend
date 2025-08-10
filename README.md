@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm Noob-Legend</h1>
+<h3 align="center">A fullstack coding hero</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+
+
 # 💫 About Me:
 👨‍💻 Fullstack dev, sulap kode jadi aplikasi<br>☕ Kopi kuat, bug jadi musuh abadi<br>🕵️‍♂️ Detektif bug malam hari<br>💡 Ide datang jam 3 pagi, lupa pas pagi<br>🎮 Game dulu, debug belakangan<br>🍕 Ngemil + coding = kombinasi sempurna<br>🤖 Bikin AI yang baik buat manusia
 
