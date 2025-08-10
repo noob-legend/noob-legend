@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754836123/kota-cyber_eqeory.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 
 <image width = "400" src="https://cdn.pfps.gg/banners/7231-cyberpunk-city.gif" alt="kota berjalan">
 
