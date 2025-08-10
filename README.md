@@ -5,6 +5,8 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 👨‍💻 Fullstack dev, sulap kode jadi aplikasi<br>☕ Kopi kuat, bug jadi musuh abadi<br>🕵️‍♂️ Detektif bug malam hari<br>💡 Ide datang jam 3 pagi, lupa pas pagi<br>🎮 Game dulu, debug belakangan<br>🍕 Ngemil + coding = kombinasi sempurna<br>🤖 Bikin AI yang baik buat manusia
 
 
