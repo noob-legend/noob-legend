@@ -1,5 +1,5 @@
 ![MasterHead](https://res.cloudinary.com/dt6y9w1pu/image/upload/v1754837301/noob-legend_icleeb.gif)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <h1 align="center">Hi 👋, I'm Noob-Legend</h1>
 <h3 align="center">A fullstack coding hero</h3>
