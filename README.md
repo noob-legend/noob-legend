@@ -1,12 +1,10 @@
 <p align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=40&duration=4000&pause=500&color=F73D04E9&width=550&height=70&lines=++++hy+i'm+Noob+legend;+A+fullstack+coding+hero+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=40&duration=4000&pause=500&color=F7AD00E9&width=550&height=70&lines=++++hy+i'm+Noob+legend;+A+fullstack+coding+hero+" alt="Typing SVG" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-
-
-# 💫 About Me:
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 👨‍💻 Fullstack dev, sulap kode jadi aplikasi<br>☕ Kopi kuat, bug jadi musuh abadi<br>🕵️‍♂️ Detektif bug malam hari<br>💡 Ide datang jam 3 pagi, lupa pas pagi<br>🎮 Game dulu, debug belakangan<br>🍕 Ngemil + coding = kombinasi sempurna<br>🤖 Bikin AI yang baik buat manusia
 
 
